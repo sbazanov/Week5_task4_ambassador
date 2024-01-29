@@ -1,4 +1,4 @@
-#  Preparing helm template of new version Ambassasdor API-service   
+#  Preparing helm template of new version Ambassador API-gateway   
 
 ## Here are the steps to reproduce the problem:
 
